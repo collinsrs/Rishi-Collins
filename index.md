@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Rishi Collins
 
-You can use the [editor on GitHub](https://github.com/collinsrs/collinsrs-personal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an aspiring student studying software development. I build websites and applications for fun for myself, and hopefully for others very soon. My work and expertise is still being worked on, but I hope you join me on my long journey ahead!
 
-### Markdown
+You can view my repositories on GitHub, or find me on my other socials, right from this page. Enjoy!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Twitter](https://twitter.com/washedrsc)
+- [GitHub](https://github.com/collinsrs)
+- [Instagram](https://instagram.com/rishicollins_)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/collinsrs/collinsrs-personal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
